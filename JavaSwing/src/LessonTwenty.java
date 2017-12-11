@@ -16,6 +16,7 @@ public class LessonTwenty extends JFrame{
 		this.setSize(400, 400);
 		System.out.println(" After   OL");
 		System.out.println(" After   Khadia");
+		System.out.println(" After   Khadia 33");
 		
 		// Opens the frame in the middle of the screen------------------------------------------
 		// You could also define position based on a component                   |
