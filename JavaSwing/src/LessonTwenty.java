@@ -1,10 +1,12 @@
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
+
 import javax.swing.*;
 
 // You must extend the JFrame class to make a frame
 // After git
+//
 public class LessonTwenty extends JFrame{
 	public static void main(String[] args){
 		new LessonTwenty();
@@ -12,6 +14,8 @@ public class LessonTwenty extends JFrame{
 	
 	public LessonTwenty(){
 		this.setSize(400, 400);
+		System.out.println(" After   OL");
+		System.out.println(" After   Khadia");
 		
 		// Opens the frame in the middle of the screen------------------------------------------
 		// You could also define position based on a component                   |
